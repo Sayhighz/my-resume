@@ -22,6 +22,7 @@ h1, h2 {
     text-shadow: 5px 3px 5px rgba(0, 0, 0, .5);
 }
 
+/* my name in header */
 .myname {
     text-align: center;
     margin-top: 3%;
@@ -33,6 +34,7 @@ h1, h2 {
     height: 1000px;
 }
 
+/* fixed navbar */
 .navbar {
     font-size: 25px;
     text-transform: uppercase;
@@ -94,13 +96,15 @@ h1, h2 {
     transform: translateY(-100%);
 }
 
-.header img{
+/* my photo on bottom right */
+.header img {
     position: fixed;
     margin-top: 15%;
     margin-left: 80%;
 }
 
-.video{
+/* viedo area */
+.video {
     margin-top: 3%;
     margin-left: 30%;
     text-align: center;
@@ -110,11 +114,12 @@ h1, h2 {
     border-radius: 5%;
 }
 
-.video iframe{
+.video iframe {
     margin-top: 6%;
     border-radius: 5%;
 }
 
+/* profile / about me area */
 .profile {
     width: 100%;
     height: 800px;
@@ -155,18 +160,19 @@ h1, h2 {
     padding-right: 5%;
 }
 
+/* education area */
 .education {
     width: 100%;
     height: 1000px;
     font-size: 30px;
 }
 
-.education h2{
+.education h2 {
     padding-top: 2%;
     font-size: 100px;
 }
 
-.education table{
+.education table {
     margin-left: 30%;
     margin-top: 10px;
     background-color: #303030;
@@ -180,50 +186,51 @@ h1, h2 {
     padding: 3%;
 }
 
-.education img{
+.education img {
     width: 150px;
     padding-right: 50px;
     padding-top: 20px;
 }
 
-.work{
+/* work area */
+.work {
     width: 100%;
     height: 1000%;
     background-color: rgba(0, 0, 0, 0.411);
     background-image: url("/img/bg/2.png");
 }
 
-.work img{
+.work img {
     border-radius: 5%;
 }
 
-.work h2{
+.work h2 {
     font-size: 100px;
     padding-top: 2%;
 }
 
-.work h3{
+.work h3 {
     font-size: 50px;
 }
 
-.work p{
+.work p {
     font-size: 30px;
 }
 
-.gamereditorark{
+.gamereditorark {
     width: 800px;
     padding-left: 29%;
     text-align: center;
 }
 
-.arksettingtools{
+.arksettingtools {
     width: 800px;
     padding-left: 29%;
     padding-top: 3%;
     text-align: center;
 }
 
-.eos{
+.eos {
     width: 800px;
     padding-left: 29%;
     padding-top: 3%;
@@ -231,35 +238,36 @@ h1, h2 {
     text-align: center;
 }
 
-.certificate{
+/* certificate area */
+.certificate {
     width: 100%;
     height: 800px;
     background-color: #3a3b3c;
 }
 
-.certificate h2{
+.certificate h2 {
     font-size: 100px;
 }
 
-.certificate h3{
+.certificate h3 {
     font-size: 50px;
     padding: 5%;
 }
 
-.certificate p{
+.certificate p {
     font-size: 25px;
 }
 
-.certificate img{
+.certificate img {
     border-radius: 5%;
 }
 
-.certificate a{
+.certificate a {
     text-decoration: none;
     color: blue;
 }
 
-.master_python{
+.master_python {
     width: 30%;
     height: 90%;
     text-align: center;
@@ -270,7 +278,7 @@ h1, h2 {
     border-radius: 10%
 }
 
-.complete_python3{
+.complete_python3 {
     width: 30%;
     height: 90%;
     text-align: center;
@@ -281,7 +289,7 @@ h1, h2 {
     border-radius: 10%
 }
 
-.autopy{
+.autopy {
     width: 30%;
     height: 90%;
     text-align: center;
@@ -293,7 +301,7 @@ h1, h2 {
     border-radius: 10%
 }
 
-.web_scraping{
+.web_scraping {
     width: 30%;
     height: 90%;
     text-align: center;
@@ -305,7 +313,7 @@ h1, h2 {
     border-radius: 10%
 }
 
-.github{
+.github {
     width: 30%;
     height: 90%;
     text-align: center;
@@ -317,7 +325,7 @@ h1, h2 {
     border-radius: 10%
 }
 
-.ctf{
+.ctf {
     width: 30%;
     height: 90%;
     text-align: center;
