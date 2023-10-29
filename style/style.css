@@ -210,6 +210,16 @@ h1, h2 {
     text-align: center;
 }
 
+/* go to github link */
+
+.work a img{
+    margin-top: 2%;
+}
+
+.work a:hover img{
+    transform: scale(1.5);
+}
+
 /* certificate area */
 .certificate {
     width: 100%;
